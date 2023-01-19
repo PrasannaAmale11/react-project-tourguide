@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+/* .underline {
+border-bottom: 1px solid black !important;  
+} */
+.delete-btn{
+  background-color: #282c34;
+  color: white ;
+  justify-content: center;;
+  text-align: center;
+  height: 30px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+}
+.delete-btn:hover{
+  background-color: white ;
+  color: #282c34;
+  cursor: pointer;
+}
+.show-more{
+  background-color: #282c34;
+  color: white ;
+  justify-content: center;;
+  text-align: center;
+  height: 30px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  text-transform: capitalize;
+}
+.show-more:hover{
+  background-color: white ;
+  color: #282c34;
+  cursor: pointer;
+}
